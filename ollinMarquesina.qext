@@ -1,0 +1,12 @@
+{
+    "name" : "Ollin Marquesina V1",
+    "description" : "Create Marquesina effect",
+    "icon" : "list",
+    "type" : "visualization",
+    "version": "1.1",
+    "preview": "ollintech.png",
+    "author": "Ollin Tech"
+}
+
+
+
